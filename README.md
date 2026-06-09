@@ -89,15 +89,23 @@ Install Command: npm install
 Project Structure
 portfolio/
 ├── public/
+
 ├── src/
+
 ├── index.html
+
 ├── package.json
+
 ├── package-lock.json
+
 ├── tailwind.config.js
+
 ├── tsconfig.json
+
 └── vite.config.ts
 
 **Author**
+
 **Sabarishwaran J**
 
 
