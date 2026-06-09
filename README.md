@@ -97,8 +97,8 @@ portfolio/
 ├── tsconfig.json
 └── vite.config.ts
 
-**Author
-Sabarish J**
+**Author**
+**Sabarishwaran J**
 
 
 
